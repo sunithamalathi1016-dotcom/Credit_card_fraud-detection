@@ -44,4 +44,4 @@ The dataset contains anonymized credit card transactions with:
 - Hyperparameter tuning
 
 ## 👨‍💻 Author
-**Tharuna Sakthivel**
+**Sunitha S**
